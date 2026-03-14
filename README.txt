@@ -1,8 +1,8 @@
 
 SKILL-8 Spring Boot JPQL & Query Methods
 
-Name: K. Sidda Lalith Kumar Reddy
-ID: 2400031799
+Name: Shudhanshu Kumar
+ID: 2400031888
 
 Endpoints:
 
